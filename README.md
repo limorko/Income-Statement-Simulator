@@ -1,6 +1,6 @@
 # Income-Statement-Simulator
 
-This is a program that displays a condensed income statement after the user inserts his/her business' information. 
+This is a program that displays a condensed income statement after the user inputs his/her business' information. 
 
 
 
