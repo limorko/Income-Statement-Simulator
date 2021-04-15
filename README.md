@@ -10,14 +10,14 @@ Instructions in order to run Limor Kohanim’s program: ‘Income Statement’
 Please run the program on a Mac
 
 - “Home Page” -- > click on the blue button to get started
-- 
+
 - Type in your “company’s name” and press return to proceed
 For your company’s name, any name will be accepted as long as it’s at least one character long (if you don’t type anything it won’t let you proceed to the next page).
 
 - Choose the length of your accounting period (valid: month, year or quarter) and type it in, then press return to proceed
-- 
+
 - Choose the date your accounting period ends:
-- 
+
 o Type in the month (valid: January, february, ..., december), then press return
 to proceed
 
