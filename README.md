@@ -21,3 +21,7 @@ You can type an answer with or without commas (ex. 2000 or 2,000)
 *Invalid: any answer that has commas and they are in the wrong positions (ex. 2,33,4000 ; 100,3,40 ...)
 Note: whenever you type in an invalid* answer or you don’t type anything at all, you will get an error message and you will be prompted again. After you will have inserted an acceptable answer you will be able to proceed to the next page.
 - You have now arrived to the final display of your Income Statement - If you want to start again click on the button “Click here to start over”
+
+# Output Examples
+<img width="972" alt="Screenshot 2021-09-10 at 17 20 34" src="https://user-images.githubusercontent.com/78884296/132880768-4623fb77-a3cd-4e9a-82bd-567457decc2e.png">
+<img width="991" alt="Screenshot 2021-09-10 at 17 22 23" src="https://user-images.githubusercontent.com/78884296/132880781-780b928e-48c4-4f53-87e1-9cb6c1b7e142.png">
