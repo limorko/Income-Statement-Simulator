@@ -2,7 +2,7 @@
 
 This is a semester project written in Python for the Intro to Computer Science college course. My program displays a condensed income statement after the user inputs the business' information such as business' name, revenues, expenses and the period of time the financial statement should refer to. 
 
-#Instructions 
+# Instructions 
 - “Home Page” -- > click on the blue button to get started
 - Type in your “company’s name” and press return to proceed
 For your company’s name, any name will be accepted as long as it’s at least one character long (if you don’t type anything it won’t let you proceed to the next page).
