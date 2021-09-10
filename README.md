@@ -24,4 +24,6 @@ Note: whenever you type in an invalid* answer or you don’t type anything at al
 
 # Output Examples
 <img width="972" alt="Screenshot 2021-09-10 at 17 20 34" src="https://user-images.githubusercontent.com/78884296/132880768-4623fb77-a3cd-4e9a-82bd-567457decc2e.png">
-<img width="991" alt="Screenshot 2021-09-10 at 17 22 23" src="https://user-images.githubusercontent.com/78884296/132880781-780b928e-48c4-4f53-87e1-9cb6c1b7e142.png">
+<img width="999" alt="Screenshot 2021-09-10 at 17 45 34" src="https://user-images.githubusercontent.com/78884296/132881170-0034b591-d6d3-4607-9f03-0d68fbcaa0dd.png">
+<img width="991" alt="Screenshot 2021-09-10 at 17 22 23" src="https://user-images.githubusercontent.com/78884296/132881184-af6942b4-2737-48bd-b3f0-7c5acf66c42a.png">
+
